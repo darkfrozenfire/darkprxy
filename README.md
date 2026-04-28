@@ -1,12 +1,17 @@
 Tools required 
->> termux
->> microsock
->> run microsock in 1st session
+1. termux
+2. microsock
+
+run microsock in 1st session
+
 >> microsocks -i 0.0.0.0 -p 1080
->>
->> open another session
->> clone repo
->> install node.js
+
+ open another session
+>> clone repo using git
+
+install node js
+
+run command
 >> node server
 
 
@@ -28,3 +33,7 @@ use ipconfig
 >> Masking origin....
 
 🔥 Have a good time.
+
+please note - This tool is intended for educational and research purposes only.
+Any misuse of this tool for unauthorized activities is strictly prohibited.
+The author is not responsible for any misuse or damage caused.
